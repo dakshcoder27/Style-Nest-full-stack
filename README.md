@@ -6,8 +6,8 @@ This is a full-stack e-commerce web application built using the MERN stack (Mong
 
 ## 🔗 Live Demo
 
-Frontend- https://style-nest-frontend.vercel.app/
-admin- https://style-nest-admin.vercel.app/
+- Frontend- https://style-nest-frontend.vercel.app/
+- admin- https://style-nest-admin.vercel.app/
 
 ---
 
